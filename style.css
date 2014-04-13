@@ -63,3 +63,11 @@ h5, li, p, a {
 	font-size: 100%;
 	font-family: 'Droid Sans', sans-serif;
 }
+
+a{
+	color: red;
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: underline
+}
