@@ -41,8 +41,6 @@ main .container-right {
 	width: 285px;
 }
 
-
-
 header {
 	overflow: auto;
 }
@@ -54,4 +52,14 @@ footer .sitemap{
 footer .contact {
 	float:left;
 	width: 570px;
+}
+
+h1, h2, h3, h4 {
+	font-size: 100%;
+	font-family: 'Ubuntu', sans-serif;
+}
+
+h5, li, p, a {
+	font-size: 100%;
+	font-family: 'Droid Sans', sans-serif;
 }
